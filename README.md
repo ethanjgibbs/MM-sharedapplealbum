@@ -1,2 +1,4 @@
 # MM-sharedapplealbum
 Magic Mirror Project
+
+This is a first project of mine, meant to help me learn HTML, CSS, and JS. My endgoal is to build a module for Magic Mirror that will scrape photos from a shared public album on Apple Photos, and then display it where I setup on my Magic Mirror. When I want to add new pictures to the slideshow (which is also used on other device like AppleTV), then I would just add them to the album. Since the album is shared, anyone I have it shared with can also add photos to be displayed on the MM. This is intended to copy functionality I have on a DAKBoard setup, but without paying a monthly fee, since I will be hosting the backend on my homelab.
